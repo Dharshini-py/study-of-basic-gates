@@ -42,7 +42,7 @@ Y= (A+B)’
 **Ex-OR gate**
 
 The 'Exclusive-OR' gate is a circuit which will give a high output if either, but not both of its two inputs are high. An encircled plus sign (⊕) is used to show the Ex-OR operation.
-Y= A⊕B
+Y= A⊕B.
 
 **Ex-NOR gate**
 
@@ -63,17 +63,27 @@ Y= A⊕B
 
 
 **PROGRAM**
+<img width="853" height="255" alt="image" src="https://github.com/user-attachments/assets/e5087455-ac3b-4e65-895f-0c6b276f82aa" />
+
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: Dharshini V
+ RegisterNumber: 25010872
  
 **Logic symbol & Truthtable**
+<img width="900" height="426" alt="image" src="https://github.com/user-attachments/assets/859fbc82-3d00-4dae-b026-94dfd6214ce6" />
+
 
 **RTL realization Output:** 
+<img width="641" height="462" alt="image" src="https://github.com/user-attachments/assets/1617a86d-0f5a-41ae-ac6e-9302a95f4974" />
+
 
 **RTL**
+<img width="898" height="368" alt="image" src="https://github.com/user-attachments/assets/e0317d26-3fff-46fd-b098-a7eda78e2dde" />
+
 
 **Result:**
+Therefore the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
 
 
