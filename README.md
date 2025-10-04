@@ -77,16 +77,22 @@ xor g5(y5,a,b);
 not g6(y6,a);
 endmodule 
 
- Developed by: RegisterNumber: 
+ Developed by:DHARSHINI V
+ RegisterNumber:25010872
  
-**Logic symbol & Truthtable**
-
-**RTL realization Output:** <img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/e865a80a-03b2-47d8-9401-a194095a3cae" />
-
-
-**RTL**<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/ec1dc4f6-7bbc-4619-bd70-af56e85669c9" />
+**Logic symbol & Truthtable:**
+<img width="955" height="777" alt="LOGIC GATES AND TT" src="https://github.com/user-attachments/assets/467c720d-794a-4211-912b-f9f68c660086" />
 
 
-**Result:**The truth table of logic gates in Quartus II using Verilog programming has been verified successfully.
+**RTL realization Output:** 
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/e865a80a-03b2-47d8-9401-a194095a3cae" />
+
+
+**RTL:**
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/ec1dc4f6-7bbc-4619-bd70-af56e85669c9" />
+
+
+**Result:**
+The truth table of logic gates in Quartus II using Verilog programming has been verified successfully.
 
 
